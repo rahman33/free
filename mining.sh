@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.36/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && sudo ./cpuminer-sse2 -a stratum-eu.rplant.xyz:17096 -u dgb1qj2333yh8slyfz0t3lh52jg9fluapya0qa3wf54.01 -p c=DGB,zap=BSTY -t 4
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.36/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && sudo ./cpuminer-sse2 -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233 -u dgb1qj2333yh8slyfz0t3lh52jg9fluapya0qa3wf54.01 -p c=DGB,zap=BSTY -t 4
